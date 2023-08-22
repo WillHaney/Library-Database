@@ -1,11 +1,3 @@
-# File: collection.py
-# Author: William Haney
-# Date: 07/24/2022
-# Section: 700
-# E-mail: willhaney@tamu.edu
-# Description:
-# e.g., This program asks for the user to create a program that manages books by collections
-
 import math
 
 def main():
